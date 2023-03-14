@@ -1,3 +1,1 @@
-# Tiny-COCO
-
-A small coco dataset for visulization, fast loading(downloading) and debugging. 
+generate text python ve notebook files takes as input a JSON annotation file in COCO dataset format and outputs txt files with the same names as photos, with all annotations for the file inside the file. Annotation IDs are changed for our custonm dataset.
